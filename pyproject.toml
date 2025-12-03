@@ -1,0 +1,8 @@
+[project]
+name = "universal-input-sanitizer"
+version = "0.1.0"
+description = "Sanitize and produce language-safe literals for input values"
+authors = [{name="Generated", email="you@example.com"}]
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
